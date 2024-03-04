@@ -2,6 +2,8 @@
 
 Just a Randomizer mod I've been working on since TOTK released, following the code and idea of my BOTW one.
 
+Forked to re-run the Actions as the upstream repo's actions have all expired.
+
 ## Table of contents
 
 - [Quick start](#quick-start)
